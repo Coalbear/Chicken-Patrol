@@ -1,7 +1,7 @@
 # Chicken-Patrol
 Add monitoring and climate control to the chicken coop. 
 
-![ChickenPatrol](Coalbear.github.com/repository/Home.png)
+![ChickenPatrol](Home.png)
 
 
 
