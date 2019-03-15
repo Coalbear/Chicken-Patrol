@@ -24,8 +24,8 @@ int loop_delay = 60;
 int current_loop = 0;
 bool AUTO = false;
 
-const char* ssid = "dlink-9398";
-const char* password = "cyivw30042";
+const char* ssid = "wifi_name";
+const char* password = "wifi_password";
  
 ESP8266WebServer server(80); //Starts webserver. 
 
