@@ -27,3 +27,14 @@ Once the wiring is complete. Deploy it in your chicken coop!
 
 Here is some pictures of my build. 
 
+
+![Case](20190112_154711.jpg)
+
+![Top off](20190112_154717.jpg)
+
+![Internal View 1](20190113_163750.jpg)
+
+![Internal View 2](20190113_163806.jpg)
+
+![Happy Girls](20190130_182349.jpg)
+
