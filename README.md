@@ -8,7 +8,9 @@ This arduino sketch is for a ESP8266. If you have never used a ESP8266 before si
 Once you are connected to the ESP8266 in the arduino IDE. Run a "blink" example to make sure everything is connected up properly. If the built in LED is flashing, then your doing great. If not, back to the google. 
 
 Now you are ready to try this out. First make a project folder. Then download all the files to it. Most importantly you will need:
+
 -Chicken_coop_webserver.ino 
+
 -index.h
 
 index.h is the actual webpage html code. This is my first attempt at making a website. I have learned alot since writing this and would like to update this to use bootstrap. Look for version 2 in the future. 
@@ -42,3 +44,14 @@ Here is some pictures of my build.
 
 First winter outside and no frost bite. :) 
 
+
+
+To do list:
+
+-Add bootstrap style sheet and beautify the web page so its not a example.com clone. See <a target="_blank" rel="noopener noreferrer" href=https://diyprojects.io/bootstrap-web-server-esp8266-use-bootswatch-themes/> [here] </a>
+
+-Instead of cycling through the program and doing nothing. Have the controller go to sleep until a temperature change is detected. 
+
+-Create a history using a SDcard and display it on a graph. Display cost/degree of temperature movement or other indicators. 
+
+-Get rid of the Iframe displays
